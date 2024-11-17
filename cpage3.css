@@ -1,0 +1,26 @@
+#top{
+    background-color:#1a120b;
+    display: flex;
+    text-decoration: none;
+    list-style: none; /*เอาไว้ลบ หัว จุด*/
+    font-size: 18px;
+    color: aliceblue;
+}
+#button1{
+    
+    padding: 40px 30px ;
+    color: #a1a5a6;
+}
+#button2{
+    padding: 40px 30px ;
+    color: #a1a5a6;
+}
+#button3{
+    padding:  40px 30px; 
+  
+}
+#command{
+    padding-left: 800px;
+    display: flex;
+
+}
